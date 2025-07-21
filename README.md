@@ -1,6 +1,8 @@
-# Powershell-scripting
-Mòdul dual NF4-Powershell
+# Powershell-scripting. Curs 25-26
+Mòdul 0379. Projecte intermodular d'ASIX.
 
-Aquest és el repositori per practicar amb PowerShell.
+### Contingut:  
+Powershell scripting
 
-Aquesta línia s'ha afegit en local i s'ha actualitzat al repositori de github.
+### Descripció
+Aquest repositori contindrà materials sobre PowerShell.
