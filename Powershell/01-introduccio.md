@@ -18,6 +18,7 @@ Per utilitzar Git, els desenvolupadors utilitzen ordres específiques per copiar
 
 *Obteniu més informació a una guia de referència completa sobre les ordres de Git .*
 
+---------------------------------------------------------
 ### Exemples
 1. Exemple: contribuir a un repositori existent  
 ;; download a repository on GitHub.com to our machine  
@@ -70,5 +71,7 @@ En primer lloc, haureu de crear un nou dipòsit a GitHub. Podeu aprendre a crear
 ;; push changes to github  
 *git push*
 
+---------------------------------------------------------
 ### Webs d'interès
 [Tutorial bàsic](www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
+
