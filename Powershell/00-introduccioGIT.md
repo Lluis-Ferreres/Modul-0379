@@ -73,5 +73,5 @@ En primer lloc, haureu de crear un nou dipòsit a GitHub. Podeu aprendre a crear
 
 ---------------------------------------------------------
 ### Webs d'interès
-[Tutorial bàsic](www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
+[Tutorial bàsic](www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github)
 
