@@ -4,3 +4,5 @@ Powershell utilitza **cmdlets** (ordres de l'intèrpret de la terminal o shell) 
 
 La sintaxi bàsica d'un cmdlet ve a ser la següent:  
 **Verb-substantiu** *Paràmetres*
+
+*Apunts en desenvolupament*
