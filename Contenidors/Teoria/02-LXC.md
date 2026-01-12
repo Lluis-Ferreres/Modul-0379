@@ -32,9 +32,14 @@ Per utilitzar el contenidor es poden realitzar diferents tipus de connexions, pe
 **test**: nom del contenidor on volem accedir
 
 **Gestionar la xarxa del contenidor LXC**  
-Els contenidors s'emmagatzemen al sistema hoste i és allà on es defineixen les seves característiques (amb els fitxers de configuració dels recursos) i l'espai d'emmagatzematge que necessitin.
+Els contenidors s'emmagatzemen al sistema amfitrió i és allà on es defineixen les seves característiques (amb els fitxers de configuració dels recursos) i l'espai d'emmagatzematge que necessitin.
 
-En el cas de la xarxa, podem localitzar en aquesta ruta els fitxers de configuració que ens permetran modificar allò que sigui necessari:  
+En el cas de la xarxa es pot definir en base a les nostres necessitats directament amb l'equip amfitrió:  
+`/etc/default/lxc-net`
+
+**/etc/default/lxc-net**: és la ruta al fitxer de configuració de la xarxa de l'equip amfitrió compartida amb els contenidors
+
+Podem localitzar en aquesta ruta els fitxers de configuració del contenidor que ens permetran modificar allò que sigui necessari:  
 `/var/lib/lxc/test/config`
 
 **/var/lib/lxc**: serà comuna per defecte per tots els contenidors  
