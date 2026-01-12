@@ -13,3 +13,5 @@ Els contenidors proporcionen un espai separat per executar processos i connexion
 *Apunts en desenvolupament*
 
 ## Més informació
+Agraïments a les següents webs:  
+[Docker vs LXC](https://www.virtualizationhowto.com/2024/01/lxc-vs-docker-pros-and-cons-explained/ "Comparativa docker-LXC")
